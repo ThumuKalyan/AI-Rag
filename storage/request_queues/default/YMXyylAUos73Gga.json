@@ -1,0 +1,9 @@
+{
+	"id": "YMXyylAUos73Gga",
+	"json": "{\"id\":\"YMXyylAUos73Gga\",\"url\":\"https://credera.com/en-in/about-us/our-leadership\",\"loadedUrl\":\"https://credera.com/en-in/about-us/our-leadership\",\"uniqueKey\":\"https://credera.com/en-in/about-us/our-leadership\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-02-24T14:22:49.126Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://credera.com/en-in/about-us/our-leadership",
+	"url": "https://credera.com/en-in/about-us/our-leadership"
+}
